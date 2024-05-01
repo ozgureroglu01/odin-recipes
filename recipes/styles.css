@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(140, 122, 29);
+}
+
+div {
+    text-align: center;
+}
+
+h2,
+p {
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+}
+
+.myList {
+    display: inline-block;
+    text-align: left;
+}
